@@ -1,7 +1,7 @@
 ### 🍀 About Me 👋
 
 - 🔭 I’m currently working on Digital Signing Company
-- :page_with_curl: Certification : CRMO , ISO 13000 , SAP
+- :page_with_curl: Certification : CRMO , ISO 31000 , SAP
 - 🌱 I’m currently learning Risk Management/GRC/Business Analyst
 - 📫 How to reach me: https://www.linkedin.com/in/kevinjoshua11/
 
