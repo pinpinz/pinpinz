@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Risk Management/GRC/Business Analyst
 - 📫 How to reach me: https://www.linkedin.com/in/kevinjoshua11/
 
-#### Github Stats
+#### Kevin Joshua Stats :
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pinpinz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
